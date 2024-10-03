@@ -1,0 +1,16 @@
+--- File: cleanman
+
+.TH HELLO WORLD "1" "8/30/2024 " "Autoclean , upgrade, update, full dist update linux"
+.SH NAME
+clean.sh \- manual page for clean.sh 0.1.0
+.SH DESCRIPTION
+.IP
+USAGE: bash clean.sh
+.SH "SEE ALSO"
+.IP
+Website: https://not.known.yet/clean.sh
+.SH "OTHER"
+.IP
+Made by You The Amazing Person <you are an amazing person at bhupinderdeol25@gmail.com>
+.IP
+This program is distributed under the AGPL 3.0 license.
